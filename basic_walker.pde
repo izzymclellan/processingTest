@@ -34,7 +34,7 @@ if (choice == 0) {
       y=y-5;
     }
     
-rect(x,y,3,3);
+rect(x,y,5,5); // New Feature
 
 
   }
